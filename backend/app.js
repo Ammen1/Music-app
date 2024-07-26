@@ -13,7 +13,7 @@ config({ path: "./config/config.env" });
 // CORS configuration
 app.use(
   cors({
-    origin: ['https://test-project-mu-six.vercel.app'], // Include all necessary origins
+    origin: ['https://addis-software-test-project-mern-stack.vercel.app'], // Include all necessary origins
     methods: ["GET", "POST", "DELETE", "PUT"],
     credentials: true,
   })
