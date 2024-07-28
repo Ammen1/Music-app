@@ -198,3 +198,9 @@ This project is created as a test for Addis Software PLC. It demonstrates the fo
 - **MongoDB**: For database management.
 - **Docker**: For containerizing the database..
 
+![MusicApp Logo](1.png)
+![MusicApp Logo](2.png)
+![MusicApp Logo](3.png)
+![MusicApp Logo](4.pjg)
+![MusicApp Logo](5.png)
+![MusicApp Logo](6.png)
