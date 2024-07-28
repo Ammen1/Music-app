@@ -206,5 +206,3 @@ This project is created as a test for Addis Software PLC. It demonstrates the fo
 ![MusicApp Logo](4.pjg)
 ![MusicApp Logo](5.png)
 ![MusicApp Logo](6.png)
-![MusicApp Logo](7.png)
-![MusicApp Logo](8.png)
