@@ -1,7 +1,5 @@
 # MusicApp
-![MusicApp Logo](Addissoftware-logo.svg)
-
-This project serves as a test project for a position at Addis Software PLC, showcasing various modern technologies and best practices in both frontend and backend development.
+serves as a test project for a position at Addis Software PLC, showcasing various modern technologies and best practices in both frontend and backend development.
 
 ## Features
 
